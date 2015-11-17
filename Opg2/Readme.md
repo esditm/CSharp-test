@@ -9,5 +9,3 @@ Construct a schema that solves the following problem.
 Make it simple to work with while also keeping performance in mind.
 
 Use the Model1.edmx file to model your schema.
-
-If you're familiar with Entity Framework Code First then feel free to use that approach. (Just the domain classes, no need for a DbContext class)
